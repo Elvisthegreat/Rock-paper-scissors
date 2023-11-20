@@ -35,7 +35,6 @@ function computerTurn(){
 function checkWinner(){
     if(player == computer){
     return "Draw!";
-
    }
    else if (computer == "ROCK" ){
     return (player == "PAPER") ? "You Win!": "You Messed Up :D!"
