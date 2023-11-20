@@ -15,7 +15,7 @@ body {
     border: 3px solid;
     border-radius: 25px;
     padding: 25px 10px;
-    background-color: rgb(231, 146, 146);
+    background-color: grey;
     text-align: center;
 }
 
@@ -31,6 +31,9 @@ body {
 .gameContent{
     margin-top: 9px;
 }
+#gameAreah1{
+    background-color: rgb(255, 106, 0);
+}
  /*Button section*/
 .choiceBtn{
     line-height: 30px;
@@ -39,14 +42,14 @@ body {
 }
 
 #playerText{
-    color:green ;
+    color:blue ;
 }
 
 #computerText {
-    color: white;
-}
-#playerText {
     color: green;
+}
+#resultText {
+    color: black;
 }
 
 footer{
@@ -56,7 +59,7 @@ footer{
 
 @media screen and ( min-width: 992px){
     .choiceBtn:hover{
-        background-color: orangered;
+        background-color:orangered;
     }
     
     #heading{
