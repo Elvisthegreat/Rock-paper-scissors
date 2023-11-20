@@ -36,7 +36,14 @@ function checkWinner(){
     if(player == computer){
     return "Draw!";
 
-   }else if (computer == "Rock" ){
-    return (player == paper)
    }
+   else if (computer == "ROCK" ){
+    return (player == "PAPER") ? "You Win!": "You Messed Up :D!"
+    } 
+     else if (computer == "PAPER") {
+        return (player == "SCISSORS") ? "You Win!" : "You Messed Up :D!";
+    }
+    else if (computer == "SCISSOR") {
+        return (player == "ROCK") ? "You Win!" : "You Messed Up :D!";
+    }
 }
