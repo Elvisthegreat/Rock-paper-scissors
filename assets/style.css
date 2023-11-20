@@ -1,0 +1,54 @@
+/*Imported Google font*/
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Lato:ital,wght@0,400;0,700;1,300;1,400;1,700&display=swap');
+*{
+    /*Asterisk to ovverride browser default setting*/
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 25px 10px;
+    background-color: grey;
+    text-align: center;
+}
+/*Code for the name of the game*/
+#heading {
+    font-size: 50px;
+    font-family: 'Bakbak One', cursive;
+    color: black;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.gameContent{
+    margin-top: 9px;
+}
+ /*Button section*/
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    margin-top: 1em;
+}
+
+#playerText{
+    color:green ;
+}
+
+#computerText {
+    color: white;
+}
+#playerText {
+    color: green;
+}
+
+footer{
+    margin-top: 1em;
+    padding: 25px;
+}
