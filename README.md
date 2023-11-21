@@ -22,4 +22,16 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
 * I have tested and confirmed that background color is good 
 * I have confirmed that text, the header, the footer and the main body are all readeble
   ![Screenshot (640)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/86780d5c-732e-4a93-9d9b-db173cc3996e)
+##
+   #### HTML vadition
+   * I tested my code the first in the html validator and it read error, beacuse there was a open tag with no closing tag
+    ![Screenshot (644)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/4a94cd3b-c76d-467a-966b-b91991b64066)
+### Resolve HTML
+   * Tested again the html code with the validator.w3 and the result carried out shows that there was no more errors
+    ![Screenshot (645)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/c6d627cd-3e02-418b-955e-cc69e9b04956)
+
+### Testing CSS
+ * Tested my css, and result shows that there was no error in my code 
+   ![Screenshot (646)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/30d4bb62-7582-4a36-90e2-98a1999a8c2f)
+
 
