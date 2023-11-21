@@ -11,7 +11,7 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
 * COMPUTER 
 * RESULT
   ![Screenshot (639)](https://github.com/Elvisthegreat/Rock-paper-scissors/assets/141064225/ed79c71e-37cb-477d-84c2-4a1e8c7cd59e)
-  This section is the game area it stand for where this game is display: Player, is the human, Computer, is the machine: And the Result display, if its was a draw, or if you won or either messed up, means you lose.
+  This section is the game area it stand for where this game is display: Player, is the human, Computer, is the machine: Result, display if its was a draw, or if you won or either messed up, means you lose.
 
 ### The Game Option
    * This section give you option to choice, and whenever option you choice become option you with against the computer

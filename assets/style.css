@@ -31,8 +31,8 @@ body {
 .gameContent{
     margin-top: 9px;
 }
-gameAreah1{
-    background-color: rgb(255, 106, 0);
+#gameAreah1{
+    background-color: white;
 }
  /*Button section*/
 .choiceBtn{
