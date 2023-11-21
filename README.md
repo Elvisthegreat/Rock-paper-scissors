@@ -26,12 +26,19 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
    #### HTML vadition
    * I tested my code the first in the html validator and it read error, beacuse there was a open tag with no closing tag
     ![Screenshot (644)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/4a94cd3b-c76d-467a-966b-b91991b64066)
-### Resolve HTML
+### Resolved HTML
    * Tested again the html code with the validator.w3 and the result carried out shows that there was no more errors
     ![Screenshot (645)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/c6d627cd-3e02-418b-955e-cc69e9b04956)
 
 ### Testing CSS
  * Tested my css, and result shows that there was no error in my code 
    ![Screenshot (646)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/30d4bb62-7582-4a36-90e2-98a1999a8c2f)
+
+   ### Deployment
+   * This site has been deployed to github page
+   ##### The steps to deploy are as follow
+   * In the Github repository, navigate to the Setting tab
+   * From the source section drop-down menu, select the Master Branch
+   * Once the Master Branch has been selected, the page provided the link to the completed website.
 
 
