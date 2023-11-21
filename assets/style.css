@@ -31,7 +31,7 @@ body {
 .gameContent{
     margin-top: 9px;
 }
-#gameAreah1{
+gameAreah1{
     background-color: rgb(255, 106, 0);
 }
  /*Button section*/
@@ -50,6 +50,17 @@ body {
 }
 #resultText {
     color: black;
+}
+/*make the correct and incorrect answer inline*/
+.scores{
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 10px;
+    font-size: larger;
+    letter-spacing: 1px;
+    padding-right: 20px;
+    font-weight: 700;
+
 }
 
 footer{
