@@ -5,10 +5,12 @@ Welcome to a simple Rock, Paper, Scissors game. A game you play with computer, e
 
 This Game was made by Elvis Blessing on: **November 20th, 2023**
 
-##Features
+## Features
 ## Header
-
 * The header display the name of the game of the page.
+   ![Screenshot (641)](https://github.com/Elvisthegreat/Rock-paper-scissors/assets/141064225/ad97a6c2-661e-4bb9-8071-cb83fec9058d)
+## Tested if Responsive
+   The game has been tested with Am i responsive design hosting site, and the result carried out shows that it is responsive.
 ![Screenshot (643)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/cebc3ea6-7b4d-4c4b-a898-c5346db8b95e)
 
 * PLAYER 
