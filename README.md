@@ -1,4 +1,5 @@
-Welcome to a simple Rock, Paper, Scissors game. A game you play with computer, easy to play and easy to understand especially when you know the basic of Rock, Paper, Scissors
+Welcome to a simple Rock, Paper, Scissors game. A game you play with computer, easy to play and easy to understand especially when you know the basic of Rock, Paper, Scissors.
+(https://elvisthegreat.github.io/Rock-paper-scissors/)
 
 This Game was made by Elvis Blessing on: **November 20th, 2023**
 
@@ -33,6 +34,11 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
 ### Testing CSS
  * Tested my css, and result shows that there was no error in my code 
    ![Screenshot (646)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/30d4bb62-7582-4a36-90e2-98a1999a8c2f)
+   
+   ### Validated Javascript
+   Validated my javascript code with the JSHint JavaScript Validator and no error was found.
+   ![Screenshot (647)](https://github.com/Elvisthegreat/Rock-paper-scissors/assets/141064225/76fe8fd6-16e2-4da2-91dc-da7beb263631)
+
 
    ### Deployment
    * This site has been deployed to github page
@@ -40,5 +46,43 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
    * In the Github repository, navigate to the Setting tab
    * From the source section drop-down menu, select the Master Branch
    * Once the Master Branch has been selected, the page provided the link to the completed website.
+
+### Forking the GitHub Repository
+If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it. This ensures your original repository remains unchanged.
+
+* Find the relevant GitHub repository
+* In the top right corner of the page, click the Fork button (under your account)
+* Your repository has now been 'Forked' and you have a copy to work on
+### Cloning the GitHub Repository
+Cloning your repository will allow you to download a local version of the repository to be worked on. Cloning can also be a great way to backup your work.
+
+* Find the relevant GitHub repository
+* Press the arrow on the Code button
+* Copy the link that is shown in the drop-down
+* Now open Gitpod & select the directory location where you would like the clone created
+* In the terminal type 'git clone' & then paste the link you copied in GitHub
+* Press enter and your local clone will be created.
+
+### Technologies Used for This Project
+I used some different technologies for this project such as:
+* HTML
+   Html was used for the building and structure of the page content
+* CSS 
+   Used for the styling of the page 
+* Javascript
+   Was used to make the game interactive
+* Google 
+    Used google for alot of searches to know how to use some certain code and how they work
+* Youtube
+    Alot of the source code was youtube
+
+### Credits 
+   ##### I JUST WANT TO BE HONESTY
+   Just bescause of my lack of knowledge and without previous experience! I was really extremely hard for me grip the understanding of javascript, and after finished the js module, the about to create my own project! I tried alot of code to create my own difference project, but nothing was working out, but just because of time and not be left behind, the code used for this game are not really mine all was from youtube ![A game of Rock Paper Scissors written in JavaScript ✋] (<https://youtu.be/n1_vHArDBRA?si=agtyKFMVtLUGciJy>)
+
+### Acknowledgements
+  This wasn't how i expect to end up in the js module and project without been able to learn nothing much, but i believe everything in life are always made to gain experience, and i believe this is a chance for me to stand and for hard to better! I won't complain neither blame no one, i am me i have to work more and every failure make one gain experience  and become better at it next time.
+  Anyway a big hug to the Codeinstitute team for they always respond back to email in time, and also to the slack teammate....Lastly thanks to my Mentor Mo Shami for his advice and time.
+
 
 
