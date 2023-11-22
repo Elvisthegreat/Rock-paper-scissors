@@ -2,7 +2,7 @@
  * I believe honesty is also one key to succeed, i tried alot of my own 
  * personal codes but nothing was really working out because i still don't really
  * understand how js work, i only got few days left
- * to my dealine day and not to be left behind! All these codes written here are not mine
+ * to my dealine day and not to be left behind! Most of the codes Not all! written here are not mine
  * they are all from youtube! I have to be honest so i won't fail this project 
  */
 var playerText =document.querySelector("#playerText");
@@ -12,6 +12,15 @@ var choiceBtns = document.querySelectorAll(".choiceBtn");
 // Declare to hold variables
 let player;
 let computer;
+let fruits;
+
+/**
+ * for loop to be alerted out if the human draws with the computer
+ */
+fruits = ["orange", "mangoes", "bananas", "cherry", "apple"];
+function fruit(){
+    for(let i = 0; i < fruits.length; i++);
+}
 
 
 choiceBtns.forEach(button => button.addEventListener("click", () => {
@@ -45,7 +54,8 @@ function computerTurn(){
  */
 function checkWinner(){
     if(player == computer){
-    return "Draw! You have to do better!";
+    alert ("You can share the fruit with computer");
+    return fruits;
    }
    else if (computer == "ROCK" ){
         return (player == "PAPER") ? "You Win! You won a banana" : "You Messed Up :D! ";
