@@ -51,7 +51,7 @@ body {
 #resultText {
     color: black;
 }
-/*make the correct and incorrect answer inline*/
+/*make the human computer  inline*/
 .scores{
     display: inline-block;
     padding-top: 20px;
@@ -67,7 +67,7 @@ footer{
     margin-top: 1em;
     padding: 25px;
 }
-
+ /*Media query for larger screen*/
 @media screen and ( min-width: 992px){
     .choiceBtn:hover{
         background-color:orangered;
