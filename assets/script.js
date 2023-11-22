@@ -1,3 +1,10 @@
+/**
+ * I believe honesty is also one key to succeed, i tried alot of my own 
+ * personal codes but nothing was really working out because i still don't really
+ * understand how js work, i only got few days left
+ * to my dealine day and not to be left behind! All these codes written here are not mine
+ * they are all from youtube! I have to be honest so i won't fail this project 
+ */
 var playerText =document.querySelector("#playerText");
 var computerText = document.querySelector("#computerText");
 var resultText = document.querySelector("#resultText");
