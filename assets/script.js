@@ -18,7 +18,7 @@ let fruits;
  * for loop to be alerted out if the human draws with the computer
  */
 fruits = ["orange", "mangoes", "bananas", "cherry", "apple"];
-function fruit(){
+function fruits(){
     for(let i = 0; i < fruits.length; i++);
 }
 
