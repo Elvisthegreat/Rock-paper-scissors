@@ -18,7 +18,7 @@ let fruits;
  * for loop to be alerted out if the human draws with the computer
  */
 fruits = ["orange", "mangoes", "banana", "cherry", "apple"];
-function fruits(){
+function fruit(){
     for(let i = 0; i < fruits.length; i++);
 }
 
@@ -55,7 +55,7 @@ function computerTurn(){
 function checkWinner(){
     if(player == computer){
         // The loop section in the if statement
-    alert ("You can share the fruit with computer");
+    alert (" You draw! You can share the fruits with computer");
     return fruits;
    }
    else if (computer == "ROCK" ){
