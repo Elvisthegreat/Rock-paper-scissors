@@ -17,7 +17,7 @@ let fruits;
 /**
  * for loop to be alerted out if the human draws with the computer
  */
-fruits = ["orange", "mangoes", "bananas", "cherry", "apple"];
+fruits = ["orange", "mangoes", "banana", "cherry", "apple"];
 function fruits(){
     for(let i = 0; i < fruits.length; i++);
 }
