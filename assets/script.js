@@ -5,7 +5,6 @@ var choiceBtns = document.querySelectorAll(".choiceBtn");
 // Declare to hold variables
 let player;
 let computer;
-let result;
 
 
 choiceBtns.forEach(button => button.addEventListener("click", () => {
@@ -42,7 +41,7 @@ function checkWinner(){
     return "Draw! You have to do better!";
    }
    else if (computer == "ROCK" ){
-        return (player == "PAPER") ? "You Win! You won a banana" : "You Messed Up :D! "
+        return (player == "PAPER") ? "You Win! You won a banana" : "You Messed Up :D! ";
     } 
      else if (computer == "PAPER") {
         return (player == "SCISSORS") ? "You Win!" : "You Messed Up :D!";
