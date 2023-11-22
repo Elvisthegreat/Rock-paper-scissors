@@ -54,6 +54,7 @@ function computerTurn(){
  */
 function checkWinner(){
     if(player == computer){
+        // The loop section in the if statement
     alert ("You can share the fruit with computer");
     return fruits;
    }
