@@ -9,10 +9,6 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
 ## Header
 * The header display the name of the game of the page.
    ![Screenshot (641)](https://github.com/Elvisthegreat/Rock-paper-scissors/assets/141064225/ad97a6c2-661e-4bb9-8071-cb83fec9058d)
-## Tested if Responsive
-   The game has been tested with Am i responsive design hosting site, and the result carried out shows that it is responsive.
-![Screenshot (643)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/cebc3ea6-7b4d-4c4b-a898-c5346db8b95e)
-
 * PLAYER 
 * COMPUTER 
 * RESULT
@@ -23,7 +19,11 @@ This Game was made by Elvis Blessing on: **November 20th, 2023**
 ### The Game Option
    * This section give you option to choice, and whenever option you choice become option you with against the computer
     ![rockpaper](https://github.com/Elvisthegreat/Rock-paper-scissors/assets/141064225/9b9644aa-01b1-4f7e-960b-1604bbd3c927)
-### Testing
+## Tested if Responsive
+   The game has been tested with Am i responsive design hosting site, and the result carried out shows that it is responsive.
+![Screenshot (643)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/cebc3ea6-7b4d-4c4b-a898-c5346db8b95e)
+
+### Testing with lighthouse
 * I have tested and confirmed that background color is good 
 * I have confirmed that text, the header, the footer and the main body are all readeble
   ![Screenshot (640)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/86780d5c-732e-4a93-9d9b-db173cc3996e)
