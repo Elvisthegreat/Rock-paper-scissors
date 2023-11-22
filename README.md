@@ -78,10 +78,10 @@ I used some different technologies for this project such as:
 
 ### Credits 
    ##### I JUST WANT TO BE HONESTY
-   Just bescause of my lack of knowledge and without previous experience! I was really extremely hard for me grip the understanding of javascript, and after finished the js module, the about to create my own project! I tried alot of code to create my own difference project, but nothing was working out, but just because of time and not be left behind, the code used for this game are not really mine all was from youtube ![A game of Rock Paper Scissors written in JavaScript ✋] (<https://youtu.be/n1_vHArDBRA?si=agtyKFMVtLUGciJy>)
+   Just bescause of my lack of knowledge and without previous experience! Its was extremely hard for me grip the understanding of javascript, and after i finished the js module, and about to create my own project! I tried alot of code to create my own difference project, but nothing was working out, but just because of time and not be left behind, the code used for this game are not really mine all was from youtube ![A game of Rock Paper Scissors written in JavaScript ✋] (<https://youtu.be/n1_vHArDBRA?si=agtyKFMVtLUGciJy>)
 
 ### Acknowledgements
-  This wasn't how i expect to end up in the js module and project without been able to learn nothing much, but i believe everything in life are always made to gain experience, and i believe this is a chance for me to stand and for hard to better! I won't complain neither blame no one, i am me i have to work more and every failure make one gain experience  and become better at it next time.
+  This wasn't how i expected to end up in the js module and project without been able to learn nothing much, but i believe everything in life are always made to gain experience, and i believe this is a chance for me to stand and work hard to be better! I won't complain neither blame no one, i am me and this is my life, i have to work more, and every failure make one gain experience  and become better at it next time.
   Anyway a big hug to the Codeinstitute team for they always respond back to email in time, and also to the slack teammate....Lastly thanks to my Mentor Mo Shami for his advice and time.
 
 
