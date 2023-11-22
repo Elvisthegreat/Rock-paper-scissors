@@ -1,10 +1,12 @@
+# Rock Paper Scissors
+
 Welcome to a simple Rock, Paper, Scissors game. A game you play with computer, easy to play and easy to understand especially when you know the basic of Rock, Paper, Scissors.
 (https://elvisthegreat.github.io/Rock-paper-scissors/)
 
 This Game was made by Elvis Blessing on: **November 20th, 2023**
 
 ##Features
-### Header
+## Header
 
 * The header display the name of the game of the page.
 ![Screenshot (643)](https://github.com/Elvisthegreat/Love-Running/assets/141064225/cebc3ea6-7b4d-4c4b-a898-c5346db8b95e)
